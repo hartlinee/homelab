@@ -3,7 +3,7 @@ I'm glad you asked! This homelab will help me get used to working in a more ente
 
 That in mind, here is my first pass at a setup for my CTF/security lab:
 
-![Image of homelab network diagram](https://github.com/hartlinee/homelab/blob/main/network_diagrams/homelab_v1.png)
+![Image of homelab network diagram](https://github.com/hartlinee/homelab/blob/main/diagrams/homelab_v1.png)
 
 It is a simple setup for now, and I imagine many changes will happen over time. I'll be documenting any changes, updates, snags, and successes in this repo as I continue working and learning. 
 
